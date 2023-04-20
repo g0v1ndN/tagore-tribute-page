@@ -4,6 +4,7 @@
 Welcome to my tribute webpage dedicated to Rabindranath Tagore, a Bengali poet, philosopher, and polymath who reshaped Bengali literature and music in the late 19th and early 20th centuries. I chose to make this tribute webpage on Tagore because I am deeply moved by his poetry and philosophy, which convey a profound understanding of human nature and the human condition. Through this webpage, I hope to share Tagore's message of love, spirituality, and social justice, and inspire others to discover the beauty and depth of his works.
 
 ## How to use:
+
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
 2. Click on "Download ZIP" to download a compressed zip file of the repository.
@@ -13,7 +14,6 @@ Welcome to my tribute webpage dedicated to Rabindranath Tagore, a Bengali poet, 
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
 2. Run the command <i>"git clone https://github.com/Govind-S-Nair/Tribute-Webpage"</i> to clone the repository to your local machine.
-
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
