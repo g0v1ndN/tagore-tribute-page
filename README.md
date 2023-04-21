@@ -3,7 +3,23 @@
 ## About:
 Welcome to my tribute webpage dedicated to Rabindranath Tagore, a Bengali poet, philosopher, and polymath who reshaped Bengali literature and music in the late 19th and early 20th centuries. I chose to make this tribute webpage on Tagore because I am deeply moved by his poetry and philosophy, which convey a profound understanding of human nature and the human condition. Through this webpage, I hope to share Tagore's message of love, spirituality, and social justice, and inspire others to discover the beauty and depth of his works.
 
-## How to use:
+## Features: 
+1. A header containing the title of the page, "Tribute Website | Rabindranath Tagore" and a link to an external stylesheet.
+2. A container div to hold the entire content of the webpage.
+3. A section for the top portion with an image and text, with flexbox for layout.
+4. A section titled "The Bard of Bengal" with a quote from Tagore and a brief introduction to his life and work.
+5. A section titled "Famous Literary Works" which lists some of Tagore's most well-known works.
+6. A footer containing a link to an external source for more information about the poet.
+7. The use of semantic HTML tags to structure the content.
+8. CSS styling to control the layout and appearance of the webpage including: <br>
+   • setting default margin, padding, and box-sizing for all elements on the page <br>
+   • setting a maximum width for the content of the page and centering it horizontally <br>
+   • styling for the top section including setting margins, image size and shape, and font sizes and colors for the headings <br>
+   • styling for the about section including setting margins, font sizes and colors for the headings and paragraphs, and justifying the text <br>
+   • styling for the literary works section including setting margins and font sizes and colors for the heading and list items <br>
+   • styling for the footer including setting margins and font sizes and aligning the text to the right 
+
+## Usage Instructions:
 
 ### Downloading or Cloning the Repository:
 1. Click on the "Code" button on the top right corner of this repository page.
