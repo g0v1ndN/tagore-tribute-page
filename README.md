@@ -30,7 +30,7 @@ Here are a few features of this webpage.
 <p align="center"><b> OR </b></p>
 
 1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
-2. Run the command <i>"git clone https://github.com/Govind-S-Nair/Tribute-Webpage"</i> to clone the repository to your local machine.
+2. Run the command `git clone https://github.com/Govind-S-Nair/Tribute-Webpage` to clone the repository to your local machine.
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
