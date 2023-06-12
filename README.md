@@ -39,7 +39,7 @@ Here are a few features of this webpage.
 3. Double-click on the HTML file to open it in your default web browser. Alternatively, you can right-click on the file and select "Open With" to choose a specific web browser to open the file.
 
 ## Screenshots: 
-<img style="margin: 10px" src="https://github.com/Govind-S-Nair/Tribute-Webpage/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
+<img src="https://github.com/Govind-S-Nair/Tribute-Webpage/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the MIT License. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
