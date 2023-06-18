@@ -1,4 +1,8 @@
 # Tribute-Webpage
+<div align="left">
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/open-source.svg" alt="open-source"/>
+   <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Badges/License-MIT-green.svg" alt="open-source"/>
+</div>
 
 ## About:
 Welcome to my tribute webpage dedicated to Rabindranath Tagore, a Bengali poet, philosopher, and polymath who reshaped Bengali literature and music in the late 19th and early 20th centuries. I chose to make this tribute webpage on Tagore because I am deeply moved by his poetry and philosophy, which convey a profound understanding of human nature and the human condition. Through this webpage, I hope to share Tagore's message of love, spirituality, and social justice, and inspire others to discover the beauty and depth of his works.
@@ -42,4 +46,4 @@ Here are a few features of this webpage.
 <img src="https://github.com/Govind-S-Nair/Tribute-Webpage/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
 
 ## MIT License: 
-Hello! If you're interested in using my code, I'm happy to share it with you under the MIT License. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
+Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://opensource.org/license/mit/">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
