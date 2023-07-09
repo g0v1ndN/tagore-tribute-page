@@ -1,4 +1,4 @@
-# Tribute-Webpage
+# tagore-tribute-page
 <div align="left">
    <a href="https://opensource.org/osd">
       <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
