@@ -1,10 +1,10 @@
 # tagore-tribute-page
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/open-source.svg" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
-      <img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
+      <img src="https://github.com/g0v1ndN/AssetVault/blob/main/Badges/License-MIT-green.svg" alt="mit-license"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img src="https://img.shields.io/badge/HTML-%23E44D26" alt="HTML"/>
@@ -53,7 +53,7 @@ Here are a few features of this webpage.
 3. Double-click on the HTML file to open it in your default web browser. Alternatively, you can right-click on the file and select "Open With" to choose a specific web browser to open the file.
 
 ## Screenshots: 
-<img src="https://github.com/Govind-S-Nair/Tribute-Webpage/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
+<img src="https://github.com/g0v1ndN/tagore-tribute-page/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/Govind-S-Nair/Tribute-Webpage/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
