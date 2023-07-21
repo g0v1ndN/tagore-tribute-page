@@ -56,6 +56,8 @@ Here are a few features of this webpage.
 <img src="https://github.com/g0v1ndN/tagore-tribute-page/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
 
 ## External Resources:
+
+### Badges
 This README includes an SVG badge from an external source, which is licensed under the Creative Commons Attribution (CC-BY) License.
 
 - **Badge Name:** Open Source v1 
