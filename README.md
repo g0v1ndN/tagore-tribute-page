@@ -1,7 +1,7 @@
 # tagore-tribute-page
 <div align="left">
    <a href="https://opensource.org/osd">
-      <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg" alt="open-source"/>
+      <img src="https://img.shields.io/badge/Open%20Source-%2328a745" alt="open-source"/>
    </a>
    <a href="https://opensource.org/license/mit/">
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
@@ -18,7 +18,6 @@
 Welcome to my tribute webpage dedicated to Rabindranath Tagore, a Bengali poet, philosopher, and polymath who reshaped Bengali literature and music in the late 19th and early 20th centuries. I chose to make this tribute webpage on Tagore because I am deeply moved by his poetry and philosophy, which convey a profound understanding of human nature and the human condition. Through this webpage, I hope to share Tagore's message of love, spirituality, and social justice, and inspire others to discover the beauty and depth of his works.
 
 ## Features: 
-Here are a few features of this webpage.
 1. A header containing the title of the page, "Tribute Website | Rabindranath Tagore" and a link to an external stylesheet.
 2. A container div to hold the entire content of the webpage.
 3. A section for the top portion with an image and text, with flexbox for layout.
@@ -54,17 +53,6 @@ Here are a few features of this webpage.
 
 ## Screenshots: 
 <img src="https://github.com/g0v1ndN/tagore-tribute-page/blob/main/images/Screenshot%20001.png" alt="Screenshot"/>
-
-## External Resources:
-
-### Badges
-This README includes an SVG badge from an external source, which is licensed under the Creative Commons Attribution (CC-BY) License.
-
-- **Badge Name:** Open Source v1 
-- **Author:** Maik Ellerbrock
-- **License:** CC-BY-4.0 License
-
-The Creative Commons Attribution (CC-BY) License is an open-source license that permits usage, modification, and distribution of the content, provided you attribute the original creator. The full text of the CC-BY License can be found in the <a href="https://github.com/ellerbrock/open-source-badges/blob/master/LICENCE">LICENSE</a> file provided by the external source.
 
 ## MIT License: 
 Hello! If you're interested in using my code, I'm happy to share it with you under the <a href="https://github.com/g0v1ndN/tagore-tribute-page/blob/main/LICENSE">MIT License</a>. This license is fairly permissive, which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my code without restriction, as long as you include the original copyright notice and disclaimer in your own code. Additionally, I provide no warranties or guarantees for my code, so you use it at your own risk. I hope this helps, and happy coding!
