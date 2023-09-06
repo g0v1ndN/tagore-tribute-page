@@ -7,10 +7,10 @@
       <img src="https://img.shields.io/badge/License-MIT-green" alt="mit-license"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/HTML-%23E44D26" alt="HTML"/>
+      <img src="https://img.shields.io/badge/HTML-%23E44D26?logo=html5&logoColor=white" alt="HTML"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://img.shields.io/badge/CSS-%232965F1" alt="CSS"/>
+      <img src="https://img.shields.io/badge/CSS-%232965F1?logo=css3&logoColor=white" alt="CSS"/>
    </a>
 </div>
 
