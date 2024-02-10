@@ -54,7 +54,7 @@ Welcome to my tribute webpage dedicated to Rabindranath Tagore, a Bengali poet, 
 
 ### Opening the HTML File in a Web Browser:
 1. Open the folder where you downloaded or cloned the repository.
-2. Find the HTML file named 'index.html' within the folder.
+2. Find the HTML file named _'index.html'_ within the folder.
 3. Double-click on the HTML file to open it in your default web browser. Alternatively, you can right-click on the file and select "Open With" to choose a specific web browser to open the file.
 
 ## Screenshots: 
